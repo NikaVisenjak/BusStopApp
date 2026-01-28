@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+    "type": "java",
+    "name": "Run BusTripsApp",
+    "request": "launch",
+    "mainClass": "BusTripsApp",
+    "args": "3 2 absolute"
+    }
+
+  ]
+}
